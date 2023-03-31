@@ -84,6 +84,6 @@ I am an Graduate in Mechanical Engineering as major stream <img src="https://med
 <!-- Git stats -->
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DineshSripathi718&theme=dracula)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DineshSripathi718&show_icons=true&theme=dracula)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSripathi718&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chekri5512&theme=dracula)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chekri5512&show_icons=true&theme=dracula)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chekri5512&theme=dracula)
